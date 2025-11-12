@@ -1,0 +1,16 @@
+*   b76f386 Merge branch 'feature2'
+|\  
+| * 3f93363 feature2 change
+* |   cb91fd4 Merge branch 'feature1'
+|\ \  
+| * | 6cc7600 feature1 change
+| |/  
+* | 75ee47b добавлены не алгосы
+* | dc75140 добавлены алгосы
+|/  
+* 6cd31dd add todo.txt 5
+* 1cde9b0 add todo.txt 4
+* 4eb0196 add todo.txt 3
+* 224c0d9 add todo.txt 2
+* fabc128 add todo.txt 1
+* a67489b init
